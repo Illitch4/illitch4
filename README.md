@@ -26,4 +26,4 @@
 
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/illitch4/illitch4/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ilitch4/ilitch4/blob/output/github-contribution-grid-snake.svg)

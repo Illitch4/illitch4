@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=illitch4&label=Profile%20views&color=0e75b6&style=flat" alt="illitch4" /> </p>
 
+<img align="right" alt="GIF" src="https://github.com/illitch4/illitch4/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+
 - 🔭 I’m currently working on **my new project**
 
 - 💬 Ask me about **Dev Front-end**
